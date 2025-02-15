@@ -2,7 +2,7 @@
 
 ## Project Overview
 This script extracts specific types of data using **Regular Expressions (RegEx)** in Python.  
-It can identify:
+It can extract:
 - Emails  
 - URLs  
 - Phone Numbers  
