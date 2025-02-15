@@ -14,5 +14,6 @@ It can identify:
 ```sh
 git clone https://github.com/shina227/alu_regex-data-extraction-shina227.git
 cd alu_regex-data-extraction-shina227
-**2. Run the Python Script**
+
+2. Run the Python Script
 python regex-extractor.py
